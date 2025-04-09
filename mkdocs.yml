@@ -1,3 +1,42 @@
 site_name: A guide to the stars
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.indexes
+    - navigation.tracking
+    - navigation.top
+    - navigation.path
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: cornflowerblue
+      accent: indigo
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: cornflowerblue
+      accent: indigo
+  icon:
+    logo: fontawesome/regular/star
+plugins:
+  - privacy
+nav:
+  - 👋 Introduction: index.md
+  - 🔭 Gear:
+      - gear/index.md
+      - gear/UseCase.md
+      - gear/BuyOrder.md
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://astrodon.social/@XF9
+      name: XF9 on Mastodon

@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# A guide to the stars
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![Markarian's Chain](markarians.jpg)
 
-## Commands
+Hi, I’m Michael and I enjoy astrophotography for quite some time now. This is a compendium of the knowledge I gathered during that time so it may help you on your own journey.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This is by no means a complete guide as I haven't tried every aspect of astrophotography nor will I claim that it is  always 100% correct. Please use it as a starting point and check other sources - as you always should. It also covers deep sky astrophotography only.
 
-## Project layout
+This guide will cover what I learned about gear acquisition, operating said great, stacking and post processing.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+I will continue to expand this guide if time permits. 
