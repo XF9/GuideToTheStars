@@ -1,4 +1,4 @@
-﻿# What do you want to shoot?
+﻿# What to shoot?
 
 All of it? Then I have some bad new for you. There are different types of objects you might want to photograph which require widely different gear.
 
