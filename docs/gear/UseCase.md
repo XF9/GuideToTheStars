@@ -1,1 +1,0 @@
-﻿# What do you want to shoot?
