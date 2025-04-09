@@ -1,1 +1,3 @@
-site_name: My Docs
+site_name: A guide to the stars
+theme:
+  name: material
